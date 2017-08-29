@@ -10,7 +10,7 @@ function on_pre_player_died(event)
             {type = defines.controllers.ghost})
             game.print("Ending game in 11 seconds...")
         end
-            --global.pDied = game.players[event.player_index]
+            --global.pDied = game.players[event.player_index] test?
             game.print("What's the deal with trains?")
             event.cause.surface.create_entity(
             {name = "Seinfeld-Theme", position = event.cause.position})
