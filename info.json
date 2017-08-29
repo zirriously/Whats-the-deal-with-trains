@@ -1,0 +1,11 @@
+{
+    "name": "WhatsTheDealWithTrains",
+    "version": "1.0",
+    "title": "What's the deal with trains?",
+    "author": "Zirr",
+    "contact": "Steam - zirr_ / Discord - Zirr#6629 / Reddit - /u/Zirr",
+    "homepage": "/r/Factorio",
+    "factorio_version": "0.15",
+    "dependencies": ["base"],
+    "description": "Plays the Seinfeld theme song when you die like an idiot to a train, again."
+}
